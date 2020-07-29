@@ -13,6 +13,10 @@ Doing InfoSec Research when have free time.
     * USB Research 
     * Hardware modding
 
+4. Drones Automation
+   * [TelloTS](https://github.com/0x77dev/tellots)
+   * SLAM
+
 #### 🌱  I’m currently learning
  * SDR (HackRF/BladeRF)
     * GSM Research
