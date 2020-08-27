@@ -24,8 +24,9 @@ Doing InfoSec Research when have free time.
  * Golang
 
 #### 💬  Ask me about 
-  * TypeScript / CoffeeScript
+  * TypeScript
   * Node.js
+  * CoffeeScript
   * WIFU
   * AWAE
   * OpenCV
