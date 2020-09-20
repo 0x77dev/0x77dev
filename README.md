@@ -54,8 +54,7 @@
 #### Who Am I?!
 
 - 🏫  School Student
-- 🏗 👨‍💻 Developer
-- 🎼  An aspiring full-stack JavaScript/TypeScript Developer.
+- 🏗 👨‍💻 Full-Stack Developer
 - 🏘  DevOps and Cloud Solutions Aarchitect
 - 📖  I am an OSS (Open-Source Software) developer.
 
