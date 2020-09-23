@@ -86,7 +86,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=0x77dev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Mikhail's GitHub Stats">
+![Mikhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x77dev&show_icons=true&hide_border=true&count_private=true&icon_color=fad000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x77dev&layout=compact&show_icons=true&hide_border=true&count_private=true&icon_color=fad000t)](https://github.com/anuraghazra/github-readme-stats)
 
 #### ⚡ Fun fact
 Im 16 years old...
