@@ -38,7 +38,7 @@
 
 - [Oracul](https://t.me/pointerblog/6)
 
-~- [Total](https://github.com/0x77dev/total)~ - Expenses tracking for humans and developers.
+- [~Total~](https://github.com/0x77dev/total) - Expenses tracking for humans and developers.
 
 - iQOS Research
     * BLE Research
