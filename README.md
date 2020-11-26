@@ -53,7 +53,6 @@
 
 #### Who Am I?!
 
-- 🏫  School Student
 - 🏗 👨‍💻 Full-Stack Developer
 - 🏘  DevOps and Cloud Solutions Architect
 - 📖  I am an OSS (Open-Source Software) developer.
