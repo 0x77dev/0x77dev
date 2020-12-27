@@ -23,7 +23,7 @@
   <img align="left" alt="Mikhail's Email" width="22px" src="https://lh3.googleusercontent.com/wU1g-jkRI73WEWNUKt--vdvZMzbjCgrVbJd9zRrpy63a85G-hXsv0px9mEA6W2l49J8" />
 </a>
 <a href="https://keybase.io/0x77dev">
-  <img align="left" alt="Mikhail's Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/1200px-Keybase_logo_official.svg.png" />
+  <img align="left" alt="Mikhail's Keybase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/1200px-Keybase_logo_official.svg.png" />
 </a>
 
 
@@ -36,9 +36,15 @@
 
 #### 🔭  I’m currently working on
 
-- [Oracul](https://t.me/pointerblog/6)
-
-- [~Total~](https://github.com/0x77dev/total) - Expenses tracking for humans and developers.
+- Smart Home Automations
+    * ZigBee Research / Reverse-Engineering
+    * Hardware modding
+    * 3D Printing
+    * STM32 / ESP32 / RPi / esp8266 / Omega Onion2
+    * [Home Assistant](https://www.home-assistant.io/)
+    * Google Assistant (Actions on Google)
+    * HomeKit
+    * miIO Reverse-Engineering
 
 - iQOS Research
     * BLE Research
@@ -48,8 +54,6 @@
 - Drones Automation
    * [TelloTS](https://github.com/0x77dev/tellots)
    * SLAM
-
-- [RunSpace](https://runspace.app) - Managing ecosystem for your Machines, Nodes, Servers, IoT Devices.
 
 #### Who Am I?!
 
@@ -62,6 +66,7 @@
     * GSM Research
  * Rust
  * Golang
+ * PyTorch / Tensorflow
 
 #### Topics, Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
