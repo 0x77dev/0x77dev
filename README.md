@@ -1,32 +1,6 @@
 ### Hey There! 👋
 [<img width="15px" heigth="15px" src="https://0x77.page/favicon.ico" />](https://0x77.page) I’m developing high-load cloud solutions for business needs.
 
-<a href="https://0x77.page">
-  <img align="left" alt="Mikhail's Website" width="22px" src="https://fonts.gstatic.com/s/i/materialicons/business/v7/24px.svg" />
-</a>
-<a href="https://twitter.com/0x77dev">
-  <img align="left" alt="Mikhail Marynenko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/0x77dev/">
-  <img align="left" alt="Mikhail's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/0x77dev/">
-  <img align="left" alt="Mikhail's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/0x77dev">
-  <img align="left" alt="Mikhail's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://t.me/hex0x77">
-  <img align="left" alt="Mikhail's Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" />
-</a>
-<a href="mailto:0x77dev@protonmail.com">
-  <img align="left" alt="Mikhail's Email" width="22px" src="https://lh3.googleusercontent.com/wU1g-jkRI73WEWNUKt--vdvZMzbjCgrVbJd9zRrpy63a85G-hXsv0px9mEA6W2l49J8" />
-</a>
-<a href="https://keybase.io/0x77dev">
-  <img align="left" alt="Mikhail's Keybase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/1200px-Keybase_logo_official.svg.png" />
-</a>
-
-<br>
 
 ![Metrics](https://raw.githubusercontent.com/0x77dev/0x77dev/master/github-metrics.svg)
 
@@ -92,3 +66,30 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+
+### Contact Me
+<a href="https://0x77.page">
+  <img align="left" alt="Mikhail's Website" width="22px" src="https://fonts.gstatic.com/s/i/materialicons/business/v7/24px.svg" />
+</a>
+<a href="https://twitter.com/0x77dev">
+  <img align="left" alt="Mikhail Marynenko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/0x77dev/">
+  <img align="left" alt="Mikhail's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/0x77dev/">
+  <img align="left" alt="Mikhail's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/0x77dev">
+  <img align="left" alt="Mikhail's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://t.me/hex0x77">
+  <img align="left" alt="Mikhail's Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" />
+</a>
+<a href="mailto:0x77dev@protonmail.com">
+  <img align="left" alt="Mikhail's Email" width="22px" src="https://lh3.googleusercontent.com/wU1g-jkRI73WEWNUKt--vdvZMzbjCgrVbJd9zRrpy63a85G-hXsv0px9mEA6W2l49J8" />
+</a>
+<a href="https://keybase.io/0x77dev">
+  <img align="left" alt="Mikhail's Keybase" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/1200px-Keybase_logo_official.svg.png" />
+</a>
+
