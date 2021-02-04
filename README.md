@@ -83,7 +83,7 @@
 <a href="https://www.instagram.com/0x77dev">
   <img align="left" alt="Mikhail's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://t.me/hex0x77">
+<a href="https://t.me/dev0x77">
   <img align="left" alt="Mikhail's Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" />
 </a>
 <a href="mailto:0x77dev@protonmail.com">
