@@ -2,11 +2,6 @@
 [www](https://0x77.page) I’m developing high-load cloud solutions for business needs.
 
 
-![Metrics](https://raw.githubusercontent.com/0x77dev/0x77dev/master/github-metrics.svg)
-
-<br>
-<br>
-
 ![Views](https://komarev.com/ghpvc/?username=0x77dev&color=blueviolet)
 
 <img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47cg2v1nk7shtj79r7xwywzbnhj7mswvpc92kvztsh&rid=giphy.gif" alt="nice little gif" align="right">
