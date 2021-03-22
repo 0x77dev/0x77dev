@@ -1,5 +1,5 @@
 ### Hey There! 👋
-[<img width="15px" heigth="15px" src="https://0x77.page/favicon.ico" />](https://0x77.page) I’m developing high-load cloud solutions for business needs.
+[www](https://0x77.page) I’m developing high-load cloud solutions for business needs.
 
 
 ![Metrics](https://raw.githubusercontent.com/0x77dev/0x77dev/master/github-metrics.svg)
