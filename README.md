@@ -3,6 +3,8 @@
 
 
 ![Views](https://komarev.com/ghpvc/?username=0x77dev&color=blueviolet)
+[![Donations Badge](https://raw.githubusercontent.com/k4m4/donations/master/images/badge.svg)](https://send.monobank.ua/jar/9Jp3CscioU)
+
 
 <img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47cg2v1nk7shtj79r7xwywzbnhj7mswvpc92kvztsh&rid=giphy.gif" alt="nice little gif" align="right">
 
