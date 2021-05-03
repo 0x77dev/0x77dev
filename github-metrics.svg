@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getsentry/sentry-kubernetes</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2562,7 +2562,7 @@
                 </div>
                 <footer>
                     <span>These metrics include private contributions, timezone Europe/Kiev</span>
-                    <span>Last updated Mon, 03 May 2021 21:03:13 GMT with lowlighter/metrics@3.8.0</span>
+                    <span>Last updated Mon, 03 May 2021 22:12:32 GMT with lowlighter/metrics@3.8.0</span>
                 </footer>
                 <div id="metrics-end"></div>
             </section>
