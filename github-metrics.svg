@@ -2465,7 +2465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wasm3/wasm3</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thanos-io/thanos</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2630,7 +2630,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 21 Jun 2021 20:25:00 (timezone Europe/Kiev) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 21 Jun 2021 21:11:37 (timezone Europe/Kiev) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
