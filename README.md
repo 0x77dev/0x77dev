@@ -1,22 +1,22 @@
 ### Hey There! 👋
 [www](https://0x77.page) I’m developing high-load cloud solutions for business needs.
 
-
-![Views](https://komarev.com/ghpvc/?username=0x77dev&color=blueviolet)
-[![Donations Badge](https://raw.githubusercontent.com/k4m4/donations/master/images/badge.svg)](https://send.monobank.ua/jar/9Jp3CscioU)
-
-
-<img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47cg2v1nk7shtj79r7xwywzbnhj7mswvpc92kvztsh&rid=giphy.gif" alt="nice little gif" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0x77dev&include_all_commits=true&hide_border=true&theme=dark" alt="nice little gif" align="right">
 
 #### 🔭  I’m currently working on
 
-- Smart Home Automations
+- [Woolf University](https://github.com/WoolfUniversity)
+    * Backend Development
+    * R&D
+    * Security
+    * DevOps
+
+- Smart Home Devices/Automations
     * ZigBee Research / Reverse-Engineering
     * Hardware modding
     * 3D Printing
     * STM32 / ESP32 / RPi / esp8266 / Omega Onion2
-    * [Home Assistant](https://www.home-assistant.io/)
-    * Google Assistant (Actions on Google)
+    * [Home Assistant Addons](https://github.com/0x77dev/hassio-addons)
     * HomeKit
     * miIO Reverse-Engineering
 
@@ -41,6 +41,7 @@
  * Rust
  * Golang
  * PyTorch / Tensorflow
+ * FreeRTOS
 
 #### Topics, Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
