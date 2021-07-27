@@ -12,7 +12,7 @@
     * DevOps
 
 - [Tunneler](https://github.com/0x77dev/tunneler)
-    * Easy to use TCP tunneling toolkit built on top of libp2p
+    * Free, open-source, [libp2p](https://libp2p.io) based TCP tunneling toolkit with built-in encryption and relay written in Node.js
 
 - Smart Home Devices/Automations
     * ZigBee Research / Reverse-Engineering
