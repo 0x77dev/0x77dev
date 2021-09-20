@@ -1,7 +1,7 @@
 ### Hey There! 👋
 [www](https://0x77.page) I’m developing high-load cloud solutions for business needs.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0x77dev&include_all_commits=true&hide_border=true&theme=dark" alt="nice little gif" align="right">
+<img src="https://media1.giphy.com/media/Lopx9eUi34rbq/giphy.gif" alt="nice little gif" align="right">
 
 #### 🔭  I’m currently working on
 
