@@ -11,6 +11,9 @@
     * Security
     * DevOps
 
+- [DStack](https://github.com/0x77dev/dstack)
+  * <img width="16" src="https://dstack.netlify.app/img/logo.svg" /> Technology stack as a library for developing decentralized web applications  
+
 - [Tunneler](https://github.com/0x77dev/tunneler)
     * Free, open-source, [libp2p](https://libp2p.io) based TCP tunneling toolkit with built-in encryption and relay written in Node.js
 
@@ -22,11 +25,6 @@
     * [Home Assistant Addons](https://github.com/0x77dev/hassio-addons)
     * HomeKit
     * miIO Reverse-Engineering
-
-- iQOS Research
-    * BLE Research
-    * USB Research
-    * Hardware modding
 
 - Drones Automation
    * [TelloTS](https://github.com/0x77dev/tellots)
