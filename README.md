@@ -11,7 +11,7 @@
     * Security
     * DevOps
 
-- [DStack](https://github.com/0x77dev/dstack)
+- [DStack](https://dstack.netlify.app)
   * <img width="16" src="https://dstack.netlify.app/img/logo.svg" /> Technology stack as a library for developing decentralized web applications  
 
 - [Tunneler](https://github.com/0x77dev/tunneler)
