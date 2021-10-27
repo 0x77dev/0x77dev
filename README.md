@@ -41,8 +41,8 @@
     * GSM Research
  * Rust
  * Golang
- * PyTorch / Tensorflow
  * FreeRTOS
+ * [How to make furniture out of wood](https://github.com/docker/cli/issues/267#issuecomment-695149477)
 
 #### Topics, Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
