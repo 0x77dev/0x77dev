@@ -22,7 +22,7 @@
     * Hardware modding
     * 3D Printing
     * STM32 / ESP32 / RPi / esp8266 / Omega Onion2
-    * [Home Assistant Addons](https://github.com/0x77dev/hassio-addons)
+    * [Home Assistant Addons](https://github.com/0x77dev/haddons)
     * HomeKit
     * miIO Reverse-Engineering
 
