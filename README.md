@@ -1,5 +1,5 @@
 ### Hey There! 👋
-[www](https://0x77.page) I’m developing high-load cloud solutions for business needs.
+[www](https://linktr.ee/0x77dev) I’m developing high-load cloud solutions for business needs.
 
 <img src="https://media1.giphy.com/media/Lopx9eUi34rbq/giphy.gif" alt="nice little gif" align="right">
 
