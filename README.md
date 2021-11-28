@@ -1,7 +1,7 @@
 ### Hey There! 👋
 [www](https://linktr.ee/0x77dev) I’m developing high-load cloud solutions for business needs.
 
-<img src="https://media1.giphy.com/media/Lopx9eUi34rbq/giphy.gif" alt="nice little gif" align="right">
+[<img src="https://brand.twitch.tv/assets/logos/svg/glitch/purple.svg" alt="follow me on twitch" align="right">](https://twitch.tv/0x77dev)
 
 #### 🔭  I’m currently working on
 
