@@ -41,6 +41,7 @@
     * GSM Research
  * Rust
  * Golang
+ * Solidity
  * FreeRTOS
  * [How to make furniture out of wood](https://github.com/docker/cli/issues/267#issuecomment-695149477)
 
