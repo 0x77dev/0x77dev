@@ -17,6 +17,8 @@
 - [Tunneler](https://github.com/0x77dev/tunneler)
     * Free, open-source, [libp2p](https://libp2p.io) based TCP tunneling toolkit with built-in encryption and relay written in Node.js
 
+- My personal [RSS aggregator](https://rss.0x77.dev)
+
 - Smart Home Devices/Automations
     * ZigBee Research / Reverse-Engineering
     * Hardware modding
