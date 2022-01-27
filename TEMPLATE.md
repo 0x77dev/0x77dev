@@ -3,21 +3,16 @@
 
 [<img src="https://brand.twitch.tv/assets/logos/svg/glitch/purple.svg" alt="follow me on twitch" align="right">](https://twitch.tv/0x77dev)
 
-#### 🔭  I’m currently working on
 
-- [Woolf University](https://github.com/WoolfUniversity)
-    * Backend Development
-    * R&D
-    * Security
-    * DevOps
+Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
-- [DStack](https://dstack.0x77.dev)
-  * <img width="16" src="https://dstack.netlify.app/img/logo.svg" /> Technology stack as a library for developing decentralized web applications  
+#### 🧗  My activity:
 
-- [Tunneler](https://github.com/0x77dev/tunneler)
-    * Free, open-source, [libp2p](https://libp2p.io) based TCP tunneling toolkit with built-in encryption and relay written in Node.js
+<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
 
-- My personal [RSS aggregator](https://rss.0x77.dev)
+_Last refresh: <!--TIMESTAMP-->_
+
+#### 🔭  My scope of interest
 
 - Smart Home Devices/Automations
     * ZigBee Research / Reverse-Engineering
@@ -28,15 +23,15 @@
     * HomeKit
     * miIO Reverse-Engineering
 
+- Web 3.0 / dApps
+  * Solidity
+  * libp2p/IPFS
+  * Solana
+  * WebRTC
+
 - Drones Automation
    * [TelloTS](https://github.com/0x77dev/tellots)
    * SLAM
-
-#### Who Am I?!
-
-- 🏗 👨‍💻 Full-Stack Developer
-- 🏘  DevOps and Cloud Solutions Architect
-- 📖  I am an OSS (Open-Source Software) developer.
 
 #### 🌱  I’m currently learning
  * SDR (HackRF/BladeRF)
@@ -68,5 +63,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+
+#### 📰  Latest news
+
+[_using my rss aggregator_](https://rss.0x77.dev)
+
+---
+
+<!--FEED:{"rows": 5, "select": "myrss", shuffle: false, "title": false  }-->
+
+_Last refresh: <!--TIMESTAMP-->_
+
+---
 
 ### [Contact Me](https://linktr.ee/0x77dev)
