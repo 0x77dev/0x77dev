@@ -8,13 +8,13 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity:
 
-⬆️ Pushed 1 commit to 0x77dev/0x77dev
-⬆️ Pushed 1 commit to 0x77dev/0x77dev
-⬆️ Pushed 1 commit to 0x77dev/0x77dev
-⬆️ Pushed 1 commit to 0x77dev/0x77dev
-⬆️ Pushed 1 commit to 0x77dev/dstack
+* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
+* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
+* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
+* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
+* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
 
-_Last refresh: 2022-01-27T15:35:02Z_
+_Last refresh: 2022-01-27T15:36:44Z_
 
 #### 🔭  My scope of interest
 
@@ -75,9 +75,5 @@ _Last refresh: 2022-01-27T15:35:02Z_
 ---
 
 <!--FEED:{"rows": 5, "select": "myrss", shuffle: true, "title": true  }-->
-
-_Last refresh: 2022-01-27T15:35:02Z_
-
----
 
 ### [Contact Me](https://linktr.ee/0x77dev)
