@@ -8,7 +8,7 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity:
 
-<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 _Last refresh: <!--TIMESTAMP-->_
 
@@ -70,7 +70,7 @@ _Last refresh: <!--TIMESTAMP-->_
 
 ---
 
-<!--FEED:{"rows": 5, "select": "myrss", shuffle: false, "title": false  }-->
+<!--FEED:{"rows": 5, "select": "myrss", shuffle: true, "title": true  }-->
 
 _Last refresh: <!--TIMESTAMP-->_
 
