@@ -14,7 +14,7 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 * ⬆️ Pushed 2 commits to 0x77dev/dstack
 * ⬆️ Pushed 2 commits to 0x77dev/dstack
 
-_Last refresh: 2022-01-27T19:51:03Z_
+_Last refresh: 2022-01-27T20:16:06Z_
 
 #### 🔭  My scope of interest
 
