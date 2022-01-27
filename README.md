@@ -8,13 +8,13 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity:
 
-⭐️ 4 📦 0x77dev/dstack
-⭐️ 2 📦 0x77dev/dictionary
-⭐️ 2 📦 0x77dev/docker-novnc
-⭐️ 2 📦 0x77dev/intercom
-⭐️ 2 📦 0x77dev/lit79.rat.clientside
+⬆️ Pushed 1 commit to 0x77dev/0x77dev
+⬆️ Pushed 1 commit to 0x77dev/0x77dev
+⬆️ Pushed 1 commit to 0x77dev/0x77dev
+⬆️ Pushed 1 commit to 0x77dev/0x77dev
+⬆️ Pushed 1 commit to 0x77dev/dstack
 
-_Last refresh: 2022-01-27T15:30:41Z_
+_Last refresh: 2022-01-27T15:35:02Z_
 
 #### 🔭  My scope of interest
 
@@ -74,9 +74,9 @@ _Last refresh: 2022-01-27T15:30:41Z_
 
 ---
 
-<!--FEED:{"rows": 5, "select": "myrss", shuffle: false, "title": false  }-->
+<!--FEED:{"rows": 5, "select": "myrss", shuffle: true, "title": true  }-->
 
-_Last refresh: 2022-01-27T15:30:41Z_
+_Last refresh: 2022-01-27T15:35:02Z_
 
 ---
 
