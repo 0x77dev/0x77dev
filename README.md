@@ -8,13 +8,13 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity:
 
-* 🍴 Forked 0x77dev/node-webrtc from corwin-of-amber/node-webrtc
+* 📦 Released "v0.2.25 (2022-01-29)" in dstack-js/dstack
+* ⬆️ Pushed 3 commits to dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
-* 📦 Released "v0.2.24 (2022-01-29)" in dstack-js/dstack
-* ⬆️ Pushed 2 commits to dstack-js/dstack
+* ⬆️ Pushed 1 commit to dstack-js/dstack
 
-_Last refresh: 2022-01-29T15:51:02Z_
+_Last refresh: 2022-01-29T16:23:02Z_
 
 #### 🔭  My scope of interest
 
