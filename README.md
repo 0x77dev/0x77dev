@@ -9,12 +9,12 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 #### 🧗  My activity:
 
 * ⬆️ Pushed 1 commit to dstack-js/dstack
-* ❗️ Opened issue #469 in dexterleng/vimac
-* ⬆️ Pushed 1 commit to 0x77dev/Ubuntu-Desktop-noVNC-Heroku-VPS
-* ⬆️ Pushed 1 commit to 0x77dev/Ubuntu-Desktop-noVNC-Heroku-VPS
-* 🍴 Forked 0x77dev/Ubuntu-Desktop-noVNC-Heroku-VPS from dasunpamod/Ubuntu-Desktop-noVNC-Heroku-VPS
+* 📦 Released "v0.2.26" in dstack-js/dstack
+* ⬆️ Pushed 1 commit to dstack-js/dstack
+* ⬆️ Pushed 1 commit to dstack-js/dstack
+* ⬆️ Pushed 1 commit to dstack-js/chat
 
-_Last refresh: 2022-02-01T11:51:15Z_
+_Last refresh: 2022-02-01T12:27:50Z_
 
 #### 🔭  My scope of interest
 
