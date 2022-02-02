@@ -14,7 +14,7 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 * 📦 Released "v0.2.28" in dstack-js/dstack
 * ⬆️ Pushed 2 commits to dstack-js/dstack
 
-_Last refresh: 2022-02-02T17:51:50Z_
+_Last refresh: 2022-02-02T18:20:58Z_
 
 #### 🔭  My scope of interest
 
