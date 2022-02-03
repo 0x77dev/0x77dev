@@ -10,11 +10,11 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 * ⬆️ Pushed 1 commit to dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
-* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
-* ⬆️ Pushed 8 commits to dstack-js/dstack
+* 📦 Released "v0.2.30 - alpha" in dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
+* ❗️ Opened issue #20 in dstack-js/dstack
 
-_Last refresh: 2022-02-03T21:51:13Z_
+_Last refresh: 2022-02-03T22:20:23Z_
 
 #### 🔭  My scope of interest
 
