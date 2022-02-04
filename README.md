@@ -8,13 +8,13 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity:
 
+* ⬆️ Pushed 1 commit to dstack-js/dstack
+* ⬆️ Pushed 1 commit to dstack-js/dstack
 * ❗️ Closed issue #19 in dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
-* 📦 Released "v0.2.30 - alpha" in dstack-js/dstack
-* ⬆️ Pushed 1 commit to dstack-js/dstack
 
-_Last refresh: 2022-02-04T23:14:08Z_
+_Last refresh: 2022-02-04T23:26:32Z_
 
 #### 🔭  My scope of interest
 
