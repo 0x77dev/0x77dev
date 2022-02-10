@@ -8,13 +8,13 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity:
 
+* 📦 Released "v0.1.0" in 0x77dev/Plutus
 * ⬆️ Pushed 1 commit to 0x77dev/Plutus
 * ⬆️ Pushed 1 commit to 0x77dev/Plutus
 * ⬆️ Pushed 1 commit to 0x77dev/Plutus
 * ⬆️ Pushed 1 commit to 0x77dev/Plutus
-* 🍴 Forked 0x77dev/Plutus from Isaacdelly/Plutus
 
-_Last refresh: 2022-02-10T22:14:50Z_
+_Last refresh: 2022-02-10T22:29:23Z_
 
 #### 🔭  My scope of interest
 
