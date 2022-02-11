@@ -59,13 +59,13 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
+* ⬆️ Pushed 1 commit to 0x77dev/streamity
 * ⬆️ Pushed 1 commit to 0x77dev/0x77dev
 * 📦 Released "v0.1.0" in 0x77dev/Plutus
 * ⬆️ Pushed 1 commit to 0x77dev/Plutus
 * ⬆️ Pushed 1 commit to 0x77dev/Plutus
-* ⬆️ Pushed 1 commit to 0x77dev/Plutus
 
-_Last refresh: 2022-02-11T23:20:56Z_
+_Last refresh: 2022-02-11T23:37:01Z_
 
 #### 🔭  Hobbies
 
