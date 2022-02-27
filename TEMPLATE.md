@@ -6,6 +6,8 @@
 
 Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
+### [Support the Ukraine 🇺🇦](https://savelife.in.ua/)
+
 #### 🌱  I’m currently learning
 
 - SDR (HackRF/BladeRF)
