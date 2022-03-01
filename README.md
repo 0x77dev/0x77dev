@@ -7,6 +7,7 @@
 Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
 ### [Support the Ukraine 🇺🇦](https://savelife.in.ua/)
+[Or do something evil with russian web services](https://github.com/0x77dev/stoprussia)
 
 #### 🌱  I’m currently learning
 
@@ -62,12 +63,12 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 #### 🧗  My activity
 
 * ⬆️ Pushed 1 commit to 0x77dev/0x77dev
-* ⬆️ Pushed 1 commit to 0x77dev/stoprussia
+* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
 * ⬆️ Pushed 1 commit to 0x77dev/stoprussia
 * ⬆️ Pushed 1 commit to 0x77dev/stoprussia
 * ⬆️ Pushed 1 commit to 0x77dev/stoprussia
 
-_Last refresh: 2022-03-01T02:41:01Z_
+_Last refresh: 2022-03-01T02:42:01Z_
 
 #### 🔭  Hobbies
 
