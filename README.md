@@ -62,13 +62,13 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
+* 📦 Released "v0.0.4" in 0x77dev/stoprussia
+* ❗️ Closed issue #4 in 0x77dev/stoprussia
+* 🗣 Commented on #4 in 0x77dev/stoprussia
+* ⬆️ Pushed 2 commits to 0x77dev/stoprussia
 * ❗️ Closed issue #5 in 0x77dev/stoprussia
-* 🗣 Commented on #5 in 0x77dev/stoprussia
-* 🗣 Commented on #4 in 0x77dev/stoprussia
-* 🗣 Commented on #4 in 0x77dev/stoprussia
-* 📦 Released "v0.0.3" in 0x77dev/stoprussia
 
-_Last refresh: 2022-03-05T16:40:48Z_
+_Last refresh: 2022-03-05T16:53:40Z_
 
 #### 🔭  Hobbies
 
