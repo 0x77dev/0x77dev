@@ -7,7 +7,6 @@
 Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
 ### [Support the Ukraine 🇺🇦](https://savelife.in.ua/)
-[Or do something evil with russian web services](https://github.com/0x77dev/stoprussia)
 
 #### 🌱  I’m currently learning
 
