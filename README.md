@@ -67,7 +67,7 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 * ⬆️ Pushed 1 commit to 0x77dev/stoprussia
 * ⬆️ Pushed 1 commit to 0x77dev/web
 
-_Last refresh: 2022-03-16T11:08:36Z_
+_Last refresh: 2022-03-16T11:21:49Z_
 
 #### 🔭  Hobbies
 
