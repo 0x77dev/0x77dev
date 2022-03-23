@@ -61,13 +61,13 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
-* ❗️ Opened issue #65 in dstack-js/dstack
-* ⬆️ Pushed 1 commit to 0x77dev/donate
-* ⬆️ Pushed 1 commit to 0x77dev/donate
-* ⬆️ Pushed 1 commit to 0x77dev/donate
-* ⬆️ Pushed 1 commit to 0x77dev/donate
+* ⬆️ Pushed 1 commit to dstack-js/dstack
+* ⬆️ Pushed 1 commit to dstack-js/dstack
+* 🎉 Merged PR #57 in dstack-js/dstack
+* ⬆️ Pushed 1 commit to dstack-js/dstack
+* 🎉 Merged PR #62 in dstack-js/dstack
 
-_Last refresh: 2022-03-23T17:05:40Z_
+_Last refresh: 2022-03-23T17:23:03Z_
 
 #### 🔭  Hobbies
 
