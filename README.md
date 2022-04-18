@@ -67,7 +67,7 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 * 🗣 Commented on #88 in dstack-js/dstack
 * 🗣 Commented on #88 in dstack-js/dstack
 
-_Last refresh: 2022-04-18T19:04:09Z_
+_Last refresh: 2022-04-18T19:20:48Z_
 
 #### 🔭  Hobbies
 
