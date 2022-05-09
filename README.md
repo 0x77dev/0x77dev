@@ -63,13 +63,13 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
+* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
+* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
+* ⬆️ Pushed 1 commit to 0x77dev/web
 * 🍴 Forked 0x77dev/github-vscode-theme from primer/github-vscode-theme
 * ⬆️ Pushed 1 commit to revive-tools/facial
-* 📦 Released "v0.1.0" in revive-tools/facial
-* ⬆️ Pushed 1 commit to revive-tools/facial
-* ⬆️ Pushed 1 commit to revive-tools/facial
 
-_Last refresh: 2022-05-09T20:06:22Z_
+_Last refresh: 2022-05-09T20:14:43Z_
 
 #### 🔭  Hobbies
 
