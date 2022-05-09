@@ -1,12 +1,12 @@
 ### Hey There! 👋
 
-[www](https://0x77.dev) I’m developing high-load cloud solutions for business needs.
+[www](https://0x77.dev) I’m just the dude who hacks.
+
+Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
 [My Identity on the Internet and private conversations](https://0x77.dev/identity)
 
 [<img src="https://brand.twitch.tv/assets/logos/svg/glitch/purple.svg" alt="follow me on twitch" align="right">](https://twitch.tv/0x77dev)
-
-Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
 ### [Support the Ukraine 🇺🇦](https://savelife.in.ua/)
 
@@ -63,7 +63,7 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": false}-->
+<!--GITHUB_ACTIVITY:{"rows": 3, "raw": false}-->
 
 _Last refresh: <!--TIMESTAMP-->_
 
@@ -87,6 +87,4 @@ _Last refresh: <!--TIMESTAMP-->_
 
 - BLE Communications Reverse-Engineering
 
-- Scalable facial recognition systems  
-
-[📰 Latest news (_using my rss aggregator_)](https://rss.0x77.dev)
+- Scalable facial recognition systems
