@@ -2,6 +2,8 @@
 
 [www](https://0x77.dev) I’m developing high-load cloud solutions for business needs.
 
+[My Identity on the Internet and private conversations](https://0x77.dev/identity)
+
 [<img src="https://brand.twitch.tv/assets/logos/svg/glitch/purple.svg" alt="follow me on twitch" align="right">](https://twitch.tv/0x77dev)
 
 Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
