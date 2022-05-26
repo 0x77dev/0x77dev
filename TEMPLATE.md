@@ -5,19 +5,7 @@
 Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
 [My Identity on the Internet and private conversations](https://0x77.dev/identity)
-
-[<img src="https://brand.twitch.tv/assets/logos/svg/glitch/purple.svg" alt="follow me on twitch" align="right">](https://twitch.tv/0x77dev)
-
 ### [Support the Ukraine 🇺🇦](https://savelife.in.ua/)
-
-#### 🌱  I’m currently learning
-
-- SDR (HackRF/BladeRF)
-  - GSM Research
-  - ZigBee Reverse-Engineering
-- Rust / Golang / Solidity
-- FreeRTOS
-- [How to make furniture out of wood](https://github.com/docker/cli/issues/267#issuecomment-695149477)
 
 #### Topics, Languages and Tools
 
