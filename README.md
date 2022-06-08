@@ -52,10 +52,10 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 #### 🧗  My activity
 
 * ⬆️ Pushed 1 commit to dstack-js/dstack
-* 🍴 Forked 0x77dev/marp-core from marp-team/marp-core
+* 🎉 Merged PR #99 in dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
 
-_Last refresh: 2022-06-08T17:48:12Z_
+_Last refresh: 2022-06-08T18:09:40Z_
 
 #### 🔭  Hobbies
 
