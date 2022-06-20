@@ -51,11 +51,11 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
+* ❗️ Opened issue #214 in Atinux/discuss
+* ❗️ Opened issue #213 in Atinux/discuss
 * 🍴 Forked 0x77dev/btcpayserver from xpayserver/btcpayserver
-* 🍴 Forked 0x77dev/NBitcoin from MetacoSA/NBitcoin
-* ❗️ Opened issue #25078 in keybase/client
 
-_Last refresh: 2022-06-20T19:33:32Z_
+_Last refresh: 2022-06-20T19:48:12Z_
 
 #### 🔭  Hobbies
 
