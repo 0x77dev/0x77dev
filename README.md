@@ -52,10 +52,10 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 #### 🧗  My activity
 
 * ⬆️ Pushed 1 commit to dstack-js/dstack
+* ⬆️ Pushed 1 commit to dstack-js/dstack
 * ❗️ Opened issue #214 in Atinux/discuss
-* ❗️ Opened issue #213 in Atinux/discuss
 
-_Last refresh: 2022-06-23T05:48:09Z_
+_Last refresh: 2022-06-23T06:04:50Z_
 
 #### 🔭  Hobbies
 
