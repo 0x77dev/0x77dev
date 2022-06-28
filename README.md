@@ -51,11 +51,11 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
+* 🍴 Forked 0x77dev/MacLockDesktopBackground from lehnertz85/MacLockDesktopBackground
 * ❗️ Closed issue #1 in Yilliee/recovery_a51
 * 🗣 Commented on #1 in Yilliee/recovery_a51
-* ❗️ Opened issue #1 in Yilliee/recovery_a51
 
-_Last refresh: 2022-06-28T18:41:32Z_
+_Last refresh: 2022-06-28T18:53:57Z_
 
 #### 🔭  Hobbies
 
