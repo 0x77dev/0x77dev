@@ -51,11 +51,11 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
-* 🍴 Forked 0x77dev/transcribe from dtinth/transcribe
+* 💪 Opened PR #124 in dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
-* 🍴 Forked 0x77dev/vios from dexterleng/vimac
+* 🍴 Forked 0x77dev/transcribe from dtinth/transcribe
 
-_Last refresh: 2022-07-21T06:24:37Z_
+_Last refresh: 2022-07-21T06:40:29Z_
 
 #### 🔭  Hobbies
 
