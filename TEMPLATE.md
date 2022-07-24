@@ -1,10 +1,7 @@
 ### Hey There! 👋
 
-[www](https://0x77.dev) I’m just the dude who hacks.
-
 Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
-[My Identity on the Internet and private conversations](https://0x77.dev/identity)
 ### [Support the Ukraine 🇺🇦](https://savelife.in.ua/)
 
 #### Topics, Languages and Tools
