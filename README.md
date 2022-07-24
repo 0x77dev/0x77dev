@@ -1,10 +1,7 @@
 ### Hey There! 👋
 
-[www](https://0x77.dev) I’m just the dude who hacks.
-
 Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
-[My Identity on the Internet and private conversations](https://0x77.dev/identity)
 ### [Support the Ukraine 🇺🇦](https://savelife.in.ua/)
 
 #### Topics, Languages and Tools
@@ -51,11 +48,11 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
+* ⬆️ Pushed 1 commit to 0x77dev/0x77dev
 * 💪 Opened PR #126 in dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
-* ⬆️ Pushed 1 commit to dstack-js/dstack
 
-_Last refresh: 2022-07-24T10:23:41Z_
+_Last refresh: 2022-07-24T10:29:22Z_
 
 #### 🔭  Hobbies
 
