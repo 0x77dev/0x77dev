@@ -48,11 +48,11 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
+* 🍴 Forked 0x77dev/flipperzero-firmware from flipperdevices/flipperzero-firmware
 * 🍴 Forked 0x77dev/uAssets from uBlockOrigin/uAssets
 * ⬆️ Pushed 1 commit to dstack-js/dstack
-* ⬆️ Pushed 1 commit to dstack-js/dstack
 
-_Last refresh: 2022-08-03T20:48:24Z_
+_Last refresh: 2022-08-03T21:04:23Z_
 
 #### 🔭  Hobbies
 
