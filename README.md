@@ -49,10 +49,10 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 #### 🧗  My activity
 
 * ⬆️ Pushed 1 commit to 0x77dev/tinder
-* 🍴 Forked 0x77dev/algorithmic-music from MrMebelMan/algorithmic-music
-* 🍴 Forked 0x77dev/matteobruni from matteobruni/matteobruni
+* ⬆️ Pushed 1 commit to 0x77dev/tinder
+* ⬆️ Pushed 1 commit to 0x77dev/tinder
 
-_Last refresh: 2022-10-12T23:40:27Z_
+_Last refresh: 2022-10-12T23:52:47Z_
 
 #### 🔭  Hobbies
 
