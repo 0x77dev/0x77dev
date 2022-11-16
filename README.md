@@ -47,11 +47,11 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 
 #### 🧗  My activity
 
+* ⬆️ Pushed 1 commit to 0x77dev/0x77art
 * 💪 Opened PR #140 in dstack-js/dstack
 * ⬆️ Pushed 1 commit to dstack-js/dstack
-* ⬆️ Pushed 1 commit to 0x77dev/visual-performance
 
-_Last refresh: 2022-11-16T16:51:29Z_
+_Last refresh: 2022-11-16T17:16:34Z_
 
 #### 🔭  Hobbies
 
