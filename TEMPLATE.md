@@ -2,7 +2,7 @@
 
 Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and Security Engineer
 
-### [Support Ukraine 🇺🇦](https://savelife.in.ua/)
+**[Support Ukraine 🇺🇦](https://savelife.in.ua/)**
 
 #### Topics, Languages and Tools
 
@@ -50,34 +50,3 @@ Working at [Woolf University](https://github.com/WoolfUniversity) as Backend and
 <!--GITHUB_ACTIVITY:{"rows": 3, "raw": false}-->
 
 _Last refresh: <!--TIMESTAMP-->_
-
-#### 🔭  Hobbies
-
-- Visual Performances @ Raves 
-  - Three.js
-  - GLSL
-  - Hydra
-
-- Smart Home
-  - Existing devices modding
-  - 3D Design / Printing
-  - Creating devices based on STM32 / ESP32 / ESP8266 / RPi / Omega Onion2
-  - Home Assistant
-  - HomeKit / Actions on Google / ZigBee / miIO
-
-- dApps
-  - Solidity
-  - libp2p / IPFS
-  - Solana
-
-- Drones
-  - [TelloTS](https://github.com/0x77dev/tellots)
-  - SLAM
-
-- Hardware devices reverse engineering
-  - BLE Research
-  - SDR Research
-
-- Scalable facial recognition systems
-
-- [Peer-to-peer frameworks](https://dstack.dev)
