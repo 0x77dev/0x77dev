@@ -15,4 +15,4 @@ Currently traveling around the EU and based in Stockholm, Sweden.
 - 🤹 [Performing as a visual artist at raves, live coding them on stage using GLSL, Hydra and WebGL.](https://instagram.com/marynenko.m)
 - 👩‍💼 [Creating better ways for retail businesses to know their customers](https://revive.tools) using scalable facial recognition and conversation sentiment analysis.
 - 🛹 Building casual autonomous personal transportation vehicles, like an autonomous electric longboard or an intelligent scooter.
-- 💡 Developing casual devices for smart homes, like [RFC-2324](https://www.rfc-editor.org/rfc/rfc2324) compatible teapot, or custom firmware for vaccum cleaner to put my shoes nicely.
+- 💡 Developing casual devices for smart homes, like [RFC-2324](https://www.rfc-editor.org/rfc/rfc2324) compatible teapot, or custom firmware for vacuum cleaner to put my shoes nicely.
