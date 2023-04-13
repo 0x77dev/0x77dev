@@ -8,7 +8,7 @@ Currently traveling around the EU and based in Stockholm, Sweden.
 
 - 📚 Working [@WoolfUniversity](woolf.university) as a software and security engineer, [creating the world's first API for higher education accreditation _(Airlock)_.](https://product.woolf.university/airlock)
 - 🔐 [Consulting on web applications security and development.](https://0x77.dev)
-- 🧠 [Researching new ways for artists to create art using AI and EEG; a performance is coming soon.](https://www.craft.do/s/yXVCLtvfpgUBiI)
+- 🧠 Researching new ways for artists to create art using AI and EEG.
 
 ## Hobbies
 
