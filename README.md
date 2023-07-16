@@ -1,7 +1,5 @@
 I'm a software and hardware engineer, security researcher, and visual artist born in Kyiv, Ukraine.
 
-Currently traveling around the EU and based in Stockholm, Sweden. 
-
 **[![Support Ukraine 🇺🇦](https://img.shields.io/badge/Support-Ukraine-FFCC00.svg?style=for-the-badge&color=FFCC00&labelColor=0057b7)](https://savelife.in.ua/)** [![Keybase](https://img.shields.io/keybase/pgp/0x77dev?style=for-the-badge)](https://keybase.io/0x77dev)
 
 ## Primary occupation
